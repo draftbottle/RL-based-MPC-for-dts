@@ -108,6 +108,19 @@ The implementation produces several visualizations:
 - Accumulated costs
 - Policy iteration convergence
 - Weight convergence during learning
+![image](https://github.com/user-attachments/assets/cd22c41d-de86-47bf-b812-0002d1ee8bbe)
+![image](https://github.com/user-attachments/assets/f67f5a30-45d3-4b03-9cfd-d15304e60a09)
+![image](https://github.com/user-attachments/assets/2bb0f49d-c23f-4b60-8af9-d2428c95f604)
+![image](https://github.com/user-attachments/assets/cbba04b0-5883-491d-a244-7cd2a416ff16)
+Performance Metrics (Nonlinear Vehicle with MPC-TC):
+- RLMPC Total Cost: 38.3546
+- MPC-Long Total Cost: 37.7445
+- MPC w/o TC Total Cost: 41.2104
+- MPC-TC Total Cost: 38.3546
+- RLMPC vs MPC-Long improvement: -1.6164%
+- RLMPC vs MPC w/o TC improvement: 6.9299%
+- RLMPC vs MPC-TC improvement: 0%
+- MPC-TC vs MPC w/o TC improvement: 6.9299%
 
 ### Linear System Results
 For linear systems, RLMPC is compared with:
@@ -123,15 +136,10 @@ For nonlinear systems, RLMPC is compared with:
 
 ## Citation
 
-If you use this code in your research, please cite:
+ this code is based on "Reinforcement Learning-Based Model Predictive Control for Discrete-Time Systems" -IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS, VOL. 35, NO. 3, MARCH 2024.
+ 
+ my code is a simple test for the paper ,so ,there might be so many faults.  If anyone find the mistakes in this code or some improvement for it ,iy's my pleasure for you to tell me or change it.
 
-```
-@article{RLMPC2023,
-  title={Reinforcement Learning Model Predictive Control: A Framework for Data-Driven Terminal Cost Learning},
-  author={Your Name},
-  journal={ArXiv},
-  year={2023}
-}
 ```
 
 ## License
