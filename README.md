@@ -6,7 +6,6 @@ This MATLAB implementation demonstrates the RLMPC (Reinforcement Learning Model 
 
 The RLMPC framework integrates RL's ability to learn optimal policies from data with MPC's optimization-based control strategy. The core innovation is using RL to learn an optimal terminal cost function for MPC, which improves control performance without requiring explicit terminal constraints or conditions.
 
-![RLMPC Framework](https://github.com/username/RLMPC/raw/main/images/rlmpc_framework.png)
 
 ### Key Features
 
