@@ -140,7 +140,8 @@ For nonlinear systems, RLMPC is compared with:
  my code is a simple test for the paper ,so ,there might be so many faults.  If anyone find the mistakes in this code or some improvement for it ,iy's my pleasure for you to tell me or change it.
 
 ```
-
+## star
+![GitHub stars](https://img.shields.io/github/stars/lmcggg/RL-based-MPC-for-dts.svg?style=social)
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
