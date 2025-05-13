@@ -140,7 +140,9 @@ For nonlinear systems, RLMPC is compared with:
  my code is a simple test for the paper ,so ,there might be so many faults.  If anyone find the mistakes in this code or some improvement for it ,iy's my pleasure for you to tell me or change it.
 
 
-![GitHub stars](https://img.shields.io/github/stars/lmcggg/RL-based-MPC-for-dts.svg?style=social)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lmcggg/RL-based-MPC-for-dts&type=Date)](https://www.star-history.com/#lmcggg/RL-based-MPC-for-dts&Date)
 ```
 
 
